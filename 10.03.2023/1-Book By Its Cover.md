@@ -7,18 +7,17 @@
 
 -----
 
-1. Download the *book.rar* file
+1.  Download the *book.rar* file
 
-2. If you try to open it as a `.rar`, it'll error out and state:
+2.  If you try to open it as a `.rar`, it'll error out and state:
 > 
 	Cannot open file `book.rar` as archive
 
-3. I then opened `book.rar` in `notepad++` and saw a familiar text at the very top
+3.  I then opened `book.rar` in `notepad++` and saw a familiar text at the very top
 
+    3a.  `%PNG`
 
-	3a. `PNG`
-
-4.   I then changed the file extension from `.rar` to `.png`
+4.  I then changed the file extension from `.rar` to `.png`
 
 5.  After opening the file, I was greeted with the below image
 
