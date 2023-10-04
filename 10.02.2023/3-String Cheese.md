@@ -19,6 +19,8 @@
 
 ![CTRL+F](https://i.imgur.com/gssXCDz.png)
 
+![FLAG](https://i.imgur.com/LsLKuuA.png)
+
 5. Flag #3 Acquired:
 
 ### flag{f4d9f0f70bf353f2ca23d81dcf7c9099}
