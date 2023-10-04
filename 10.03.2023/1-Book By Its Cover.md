@@ -15,7 +15,7 @@
 
 3.  I then opened `book.rar` in `notepad++` and saw a familiar text at the very top
 
-    3a.  `%PNG`
+    3a.  ```%PNG```
 
 4.  I then changed the file extension from `.rar` to `.png`
 
