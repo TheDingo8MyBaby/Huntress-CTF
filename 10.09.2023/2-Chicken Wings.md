@@ -13,14 +13,15 @@
 
 
 	2a. You'll be greeted with the following string of symbols:
-
 	```♐●♋♑❀♏📁🖮🖲📂♍♏⌛🖰♐🖮📂🖰📂🖰🖰♍📁🗏🖮🖰♌📂♍📁♋🗏♌♎♍🖲♏❝```
 
-4. If you grew up during the 1990's, you should instantly realize that this text is the old-school classic of ```WingDings```
+3. If you grew up during the 1990's, you should instantly realize that this text is the old-school classic of ```WingDings```
 
-5. Convert/Translate the ```Wingdings``` String into "English" and you'll be given the flag.
+4. Convert/Translate the ```Wingdings``` String into "English" and you'll be given the flag.
 
-6. Flag #2 Acquired:
+	![enter image description here](https://i.imgur.com/rXO2Vmr.png)
+
+5. Flag #2 Acquired:
 
 ### flag{e0791ce68f718188c0378b1c0a3bdc9e}
 
