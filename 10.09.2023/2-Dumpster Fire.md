@@ -14,7 +14,7 @@
 
 	2a. If we look into the `home` directory we can see a directory called **challenge**.
 
-	2b. From there, you can go even deeper by going to `.mozilla` -> `firefox` -> `bc1m1zlr.default-release` -> 
+	2b. From there, you can go even deeper by going to `.mozilla` -> `firefox` -> `bc1m1zlr.default-release`
 
 
 	2c.  Once you're deep enough, you should see a `.json` file:  `logins.json` along with a `.db` file: `key4.db`
