@@ -1,6 +1,6 @@
 # Chicken Wings
 ![ChickenWings](https://i.imgur.com/dHVyLGU.png)
->     I ordered chicken wings at the local restaurant, but uh... this really isn't what I was expecting...  
+> I ordered chicken wings at the local restaurant, but uh... this really isn't what I was expecting...  
 
 **Download the file(s) below.**
 **Attachments:** [chicken_wings](https://huntress.ctf.games/files/e1b6c6e6b1d8b16e21f9d1ad3ef9afb3/chicken_wings?token=eyJ1c2VyX2lkIjozMDU4LCJ0ZWFtX2lkIjo0MzQsImZpbGVfaWQiOjE5fQ.ZSTm-g.wDPOJ5fGNamX_f17BL2yRorIjig)
