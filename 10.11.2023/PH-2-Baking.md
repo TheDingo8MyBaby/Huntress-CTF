@@ -4,7 +4,8 @@
 
 ```Go the the generated Website when you select "Start"```
 
-```Install the Web-Extension "EditThisCookie"
+```
+Install the Web-Extension "EditThisCookie"
 https://www.editthiscookie.com/```
 
 ```Select "Cook" on the "Magic Cookies"```
