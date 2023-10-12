@@ -6,12 +6,15 @@
 
 ```
 Install the Web-Extension "EditThisCookie"
-https://www.editthiscookie.com/```
+https://www.editthiscookie.com/
+```
 
 ```Select "Cook" on the "Magic Cookies"```
 
-```Click on the Extension for "Edit This Cookie"
-Change the "Value:" to: eyJyZWNpcGUiOiAiTWFnaWMgQ29va2llcyIsICJ0aW1lIjogIjEwLzA1LzIwMjMsIDIzOjU1OjE1In0=```
+```
+Click on the Extension for "Edit This Cookie"
+Change the "Value:" to: eyJyZWNpcGUiOiAiTWFnaWMgQ29va2llcyIsICJ0aW1lIjogIjEwLzA1LzIwMjMsIDIzOjU1OjE1In0=
+```
 
 ```Click the CheckMark and Refresh```
 
